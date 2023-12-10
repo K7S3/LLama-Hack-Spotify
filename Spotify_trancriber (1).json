@@ -1,0 +1,40 @@
+{
+  "name": "10-Dec-2023 Workbook",
+  "schema_version": "latest",
+  "metadata": {
+    "models": {
+      "gpt-4": {
+        "model": "gpt-4",
+        "top_p": 1,
+        "temperature": 1
+      }
+    },
+    "parameters": {}
+  },
+  "prompts": [
+    {
+      "name": "cell_2",
+      "input": "Give English phoenetic lyrics for karaoke for the song in {{lyrics}} ",
+      "metadata": {
+        "model": {
+          "name": "gpt-4",
+          "settings": {}
+        },
+        "parameters": {},
+        "remember_chat_context": true
+      }
+    },
+    {
+      "name": "cell_3",
+      "input": "Now translate {{cell_2.output}} to English Meanings",
+      "metadata": {
+        "model": {
+          "name": "gpt-4",
+          "settings": {}
+        },
+        "parameters": {},
+        "remember_chat_context": true
+      }
+    }
+  ]
+}
