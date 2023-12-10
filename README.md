@@ -1,6 +1,6 @@
 # LLama-Hack-Spotify
 
-https://colab.research.google.com/drive/1GtTta0Q-t4zYNFjnQAUcRgxCeN6ef6-o?usp=sharing
+[https://colab.research.google.com/drive/1GtTta0Q-t4zYNFjnQAUcRgxCeN6ef6-o?usp=sharing](https://colab.research.google.com/drive/10i-G0XsFWy3Ynrgqic6chVUyzbgqN4Qr?usp=sharing)
 
 ## Inspiration
 We were inspired to merge the joy of music with AI, transforming how users engage with songs on Spotify
